@@ -1,0 +1,26 @@
+{
+  "name": "@fmma-npm/opgaver",
+  "version": "1.0.0",
+  "description": "Internal tool for FOA-IT. Navigate, manage and run common commands for fut features.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fmma/opgaver.git"
+  },
+  "keywords": [
+    "fiks3",
+    "fut",
+    "tool",
+    "cmd",
+    "cli"
+  ],
+  "author": "Frederik Madsen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fmma/opgaver/issues"
+  },
+  "homepage": "https://github.com/fmma/opgaver#readme"
+}
